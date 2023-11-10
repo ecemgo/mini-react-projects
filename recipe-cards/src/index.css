@@ -1,0 +1,73 @@
+@import url("https://fonts.googleapis.com/css2?family=Epilogue:wght@200;300;400;500;600;700;800;900&display=swap");
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Epilogue", sans-serif;
+}
+
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+}
+
+ul li {
+  list-style: none;
+  text-decoration: none;
+}
+
+.container {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  gap: 40px;
+  padding: 40px;
+  background-color: rgb(201, 221, 229);
+  border-radius: 30px;
+}
+
+.card {
+  display: flex;
+  flex-direction: column;
+  width: 350px;
+  background-color: #fff;
+  padding: 20px;
+  border-radius: 20px;
+}
+
+.card-body img {
+  display: block;
+  width: 100%;
+  border-radius: 10px;
+  margin-bottom: 15px;
+}
+
+.card-title {
+  margin-bottom: 12px;
+  text-align: center;
+}
+
+.card-btn {
+  background-color: rgb(141, 190, 67);
+  color: #fff;
+  font-size: 1rem;
+  font-weight: 400;
+  margin-top: 15px;
+  max-width: 150px;
+  align-self: center;
+  padding: 8px 16px;
+  border: 0;
+  outline: 0;
+  border-radius: 10px;
+  cursor: pointer;
+  transition: all 0.5s ease;
+}
+
+.card-btn:hover {
+  background-color: rgb(193, 237, 126);
+  color: rgb(87, 87, 87);
+}
