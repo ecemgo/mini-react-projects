@@ -14,9 +14,7 @@ This repository includes a sample of using props.
 
 <br>
 
-### Slider
-
-|  #  | Samples                                                                                                                                |
+|  #  | Folders                                                                                                                                |
 | :-: | :------------------------------------------------------------------------------------------------------------------------------------- |
 | 01  | [Pizza Menu](https://github.com/ecemgo/mini-react-projects/tree/main/pizza-menu)                                                       |
 | 02  | [Recipe Cards](https://github.com/ecemgo/mini-react-projects/tree/main/recipe-cards)                                                   |
