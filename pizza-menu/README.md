@@ -55,6 +55,7 @@ In the project directory, you can run:
 
 ## Author
 
-- Website - [ecemgo.com](https://www.ecemgo.com/)
+- Portfolio - [ecemgo.netlify.app](https://ecemgo.netlify.app/)
 - Twitter - [@ecemgo](https://twitter.com/ecemgo)
 - CodePen - [@ecemgo](https://codepen.io/ecemgo)
+- YouTube - [@ecemgokdogan](https://www.youtube.com/channel/UCktkPv17cw27PaFGcnZa_aQ)
