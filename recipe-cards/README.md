@@ -18,7 +18,6 @@ This repository includes a sample of using props.
 
 - [Overview](#overview)
   - [Screenshot](#screenshot)
-  - [Links](#links)
 - [Working on the project](#working-on-the-project)
   - [Installing the project](#installing-the-project)
   - [Reloading the project](#reloading-the-project)
@@ -28,8 +27,9 @@ This repository includes a sample of using props.
 
 ### Screenshot
 
-
-### Links
+<div align="left">
+<img src="https://github.com/ecemgo/mini-react-projects/assets/13468728/769844dc-5c44-4e59-b2fc-dcab9da73399" title="recipe cards" alt="recipe cards" width="850" height="500"/>
+</div>
 
 
 ## Working on the project
