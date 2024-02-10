@@ -22,6 +22,7 @@ This repository includes a sample of using props.
 - [Working on the project](#working-on-the-project)
   - [Installing the project](#installing-the-project)
   - [Reloading the project](#reloading-the-project)
+  - [Upgrading the listed dependencies](#upgrading-the-listed-dependencies)
 - [Author](#author)
 
 ## Overview
@@ -52,6 +53,24 @@ In the project directory, you can run:
   - `npm start`
 
 **Note:** The page will reload when you make changes. You may also see any lint errors in the console.
+
+### Upgrading the listed dependencies
+
+- If you run higher versions of Node, some of the packages might be incompatible with your version of Node. One way to fix this is to use a package called npm-check-updates to update the listed dependencies' versions.
+  
+  Install globally:
+  - `npm install -g npm-check-updates`
+ 
+  Check the latest versions of all project dependencies:
+  - `ncu -u`
+
+  Then:
+  - `npm install`
+ 
+  Finally:
+  - `npm start`
+
+- Source: [npm-check-updates](https://www.npmjs.com/package/npm-check-updates)
 
 ## Author
 
