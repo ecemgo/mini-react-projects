@@ -19,6 +19,5 @@ This repository includes a sample of using props.
 | 01  | [Pizza Menu](https://github.com/ecemgo/mini-react-projects/tree/main/pizza-menu)                                                       |
 | 02  | [Recipe Cards](https://github.com/ecemgo/mini-react-projects/tree/main/recipe-cards)                                                   |
 | 03  | [Developer Cards](https://github.com/ecemgo/mini-react-projects/tree/main/developer-cards)                                             |
-| 04  | [Guess the Movie Game](https://github.com/ecemgo/mini-react-projects/tree/main/guess-the-movie-game)                                   |
 
 <br>
